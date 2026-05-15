@@ -1,4 +1,4 @@
-# 🏫 Shaale-Vikas
+## 🏫 Shaale-Vikas
 
 > **A School-Alumni Bridge** — Connecting rural schools with their alumni network to fund and fulfill micro-needs in real time.
 
@@ -91,8 +91,13 @@ Shaale-Vikas/
 
 ## Application Screenshot
 
-![image alt](https://github.com/ManishAditiya/Shaale-Vikas/blob/e1e6c8b2a00729e010175fed96e00133fcfce568/Screenshot_20260511_013141.png)
-![image alt](https://github.com/ManishAditiya/Shaale-Vikas/blob/e1e6c8b2a00729e010175fed96e00133fcfce568/Screenshot_20260511_020152.png)
+
+<p align="center">
+  <img src="Screenshot_20260511_013141.png" width="250" hspace="10"/>
+  <img src="Screenshot_20260511_020152.png" width="250" hspace="10"/>
+  <img src="Screenshot_20260511_054656.png" width="250" hspace="10"/>
+   
+</p>
 
 ---
 
