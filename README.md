@@ -89,6 +89,13 @@ Shaale-Vikas/
 
 ---
 
+## Application Screenshot
+
+![image alt](https://github.com/ManishAditiya/Shaale-Vikas/blob/e1e6c8b2a00729e010175fed96e00133fcfce568/Screenshot_20260511_013141.png)
+![image alt](https://github.com/ManishAditiya/Shaale-Vikas/blob/e1e6c8b2a00729e010175fed96e00133fcfce568/Screenshot_20260511_020152.png)
+
+---
+
 ## 🎯 Impact Goals
 
 - **Community Ownership** — Empowering citizens to take care of their local schools
